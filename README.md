@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rostyslavkry
+- 👋 Hi, I’m @rostyslavkry(github.com/venusgalstar)
 - 👀 I’m interested in backend, AI, blockchain
 - 🌱 I’m currently learning Quantum Calculating.
 - 💞️ I’m looking to collaborate on building project
-- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
